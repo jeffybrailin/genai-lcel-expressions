@@ -1,4 +1,4 @@
-<img width="1403" height="541" alt="image" src="https://github.com/user-attachments/assets/6358ae6f-4c1b-42b9-a9fd-944b47af121a" />## Design and Implementation of LangChain Expression Language (LCEL) Expressions
+## Design and Implementation of LangChain Expression Language (LCEL) Expressions
 
 ### AIM:
 To design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios.
@@ -109,7 +109,6 @@ inputs.invoke({"question": "who is Elon Musk?"})
 
 ### More Complex Chain:
 <img width="757" height="640" alt="image" src="https://github.com/user-attachments/assets/b01c0013-4fd7-45da-a426-18dd45f2d2f8" />
-
 
 ### RESULT:
 Thus, The implementation of a LangChain Expression Language (LCEL) is successfully executed.
